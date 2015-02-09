@@ -1,4 +1,4 @@
-# App-Mockup-for-Eye-Tracker
+# App-Prototype-for-Eye-Tracker
 A really hackish implemented app prototype for eye tracker testing.
 
 # Features
